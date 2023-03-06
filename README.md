@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Boris
-I'm a software engineer who is passionate about smartphones and all other gadgets running on Android including cars 😁.
+A software engineer interested in web and native android development.
 
 ### Languages and Tools I use
 ##
