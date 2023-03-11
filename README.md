@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Boris
 A software engineer with a keen interest in web development, android development, and new web frameworks.
-With a background in web development, I am passionate about developing innovative and efficient software solutions. 
+With a web development background, I am passionate about developing innovative and efficient software solutions. 
 I love to keep up-to-date with the latest technological advancements and enjoy exploring new technologies to enhance my skills.
 
 ### Languages and Tools I use
